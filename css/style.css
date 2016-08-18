@@ -2091,19 +2091,18 @@ p.aut,.history-right p{
  }
 
  #cnt1 h4 {
-    /*text-transform: capitalize;*/
+    text-transform: capitalize;
     font-size: 1.5em;
     color: #666666;
     margin: 0;
 }
-
-.services p{
+#services h4{
     font-size: 16px;
     color: #666666;
     margin: 0em;
     text-align: center;
     line-height: 1.8em;
-}
+    }
 .services h4 {
 font-size: 23px;
     color: #E40000;
